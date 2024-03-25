@@ -1,6 +1,6 @@
 # Gitmoji
 
-Gitmoji는 Git 커밋 메시지를 직관적으로 이해할 수 있도록 이모지를 사용하는 방법입니다. 아래는 Gitmoji의 사용법과 각 이모지의 의미를 설명합니다.
+git commit 메세지를 직관적으로 볼 수 있는 gitmoji 사용법입니다.
 
 <br />
 
